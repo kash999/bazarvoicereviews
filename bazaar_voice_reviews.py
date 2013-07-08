@@ -300,7 +300,7 @@ class BazarVoiceReviews(object):
         return data
 
     def _get_prod_id(self, product):
-        prod_dict = {'car': 'APV_MMV_284', 'home': 'HP_MHO_322'}
+        prod_dict = {'product1': 'CODE1', 'product2': 'CODE2'}
         return prod_dict.get(product)
 
 
