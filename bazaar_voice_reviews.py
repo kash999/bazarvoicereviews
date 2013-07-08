@@ -18,7 +18,7 @@ from django.utils.http import urlencode
 
 """
 
-# soon updating code to use requsts wrapper around urllib3
+# soon updating code to use requests wrapper around urllib3
 
 
 def urlopen(url, data=None, timeout=None):
