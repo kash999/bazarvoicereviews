@@ -12,7 +12,7 @@ from django.utils.http import urlencode
 
 
 """
-   Bazar voice is thied party reviewing site.
+   Bazar voice is third party reviewing site.
    Aim of this code is wrapper around their api for easy getting reviews, paging
    and updating most helpful  with cacheing
 
